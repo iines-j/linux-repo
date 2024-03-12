@@ -64,7 +64,7 @@ drwxr-xr-x 2 lab-iines lab-iines 4096 12. 3. 10:48 aikakone
 Huomasin vasta tehtävän tehtyä että nimesin kansion tyhmästi publicwsgi:ksi, kun sinne tosiaan laitoin ton dev-version djangosta. <br/>
 Joten sen tuotantoversion laitankin nyt django-kansioon. 
 
-## h) Bonus: Djanogon tuotantoasennus
+## h) Bonus: Djangon tuotantoasennus
 > Tee tuotantotyyppinen asennus Djangosta.
 > - Laita Django-lahjatietokanta tuotantotyyppiseen asennukseen
 > - Voit vaihtaa tämän sivun näkymään etusivulla staattisen sivun sijasta
