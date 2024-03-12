@@ -47,7 +47,7 @@ drwxr-xr-x 2 lab-iines lab-iines 4096 12. 3. 10:48 aikakone
 <img src="https://github.com/iines-j/linux-repo/assets/148907657/e5c06147-03b0-4633-b279-3c9b76654990" width="600"></img> 
 
 ## h) Django
-> Asenna omalle käyttäjällesi Django-kehitysympäristö. <br>
+> Asenna omalle käyttäjällesi Django-kehitysympäristö. <br/>
 > Tee tietokantaan lista tekoälyistämme, jossa on nämä ominaisuudet
 >  - Kirjautuminen salasanalla
 >  - Tietokannan muokkaus wepissä Djangon omalla ylläpitoliittymällä (Django admin)
@@ -61,9 +61,8 @@ drwxr-xr-x 2 lab-iines lab-iines 4096 12. 3. 10:48 aikakone
 <img src="https://github.com/iines-j/linux-repo/assets/148907657/54c4c653-7d82-498f-b99d-86b8cd0ad2d0" width="600"></img> 
 <img src="https://github.com/iines-j/linux-repo/assets/148907657/443d49f4-7408-4d39-b1bf-215913ec0b7f" width="600"></img> 
  
-Huomasin vasta tehtävän tehtyä että nimesin kansion tyhmästi publicwsgi:ksi,
-kun sinne tosiaan laitoin ton dev-version djangosta.
-Joten se tuotantoversion laitankin nyt django-kansioon. 
+Huomasin vasta tehtävän tehtyä että nimesin kansion tyhmästi publicwsgi:ksi, kun sinne tosiaan laitoin ton dev-version djangosta. <br/>
+Joten sen tuotantoversion laitankin nyt django-kansioon. 
 
 ## h) Bonus: Djanogon tuotantoasennus
 > Tee tuotantotyyppinen asennus Djangosta.
